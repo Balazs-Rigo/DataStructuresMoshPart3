@@ -1,0 +1,11 @@
+I:\IT\Coding\gitHubRepo\DataStructuresMoshPart3\MyCode\DataStructuresMoshPart3\DataStructuresMoshPart3\obj\Debug\netcoreapp3.1\DataStructuresMoshPart3.csprojAssemblyReference.cache
+I:\IT\Coding\gitHubRepo\DataStructuresMoshPart3\MyCode\DataStructuresMoshPart3\DataStructuresMoshPart3\obj\Debug\netcoreapp3.1\DataStructuresMoshPart3.AssemblyInfoInputs.cache
+I:\IT\Coding\gitHubRepo\DataStructuresMoshPart3\MyCode\DataStructuresMoshPart3\DataStructuresMoshPart3\obj\Debug\netcoreapp3.1\DataStructuresMoshPart3.AssemblyInfo.cs
+I:\IT\Coding\gitHubRepo\DataStructuresMoshPart3\MyCode\DataStructuresMoshPart3\DataStructuresMoshPart3\bin\Debug\netcoreapp3.1\DataStructuresMoshPart3.exe
+I:\IT\Coding\gitHubRepo\DataStructuresMoshPart3\MyCode\DataStructuresMoshPart3\DataStructuresMoshPart3\bin\Debug\netcoreapp3.1\DataStructuresMoshPart3.deps.json
+I:\IT\Coding\gitHubRepo\DataStructuresMoshPart3\MyCode\DataStructuresMoshPart3\DataStructuresMoshPart3\bin\Debug\netcoreapp3.1\DataStructuresMoshPart3.runtimeconfig.json
+I:\IT\Coding\gitHubRepo\DataStructuresMoshPart3\MyCode\DataStructuresMoshPart3\DataStructuresMoshPart3\bin\Debug\netcoreapp3.1\DataStructuresMoshPart3.runtimeconfig.dev.json
+I:\IT\Coding\gitHubRepo\DataStructuresMoshPart3\MyCode\DataStructuresMoshPart3\DataStructuresMoshPart3\bin\Debug\netcoreapp3.1\DataStructuresMoshPart3.dll
+I:\IT\Coding\gitHubRepo\DataStructuresMoshPart3\MyCode\DataStructuresMoshPart3\DataStructuresMoshPart3\bin\Debug\netcoreapp3.1\DataStructuresMoshPart3.pdb
+I:\IT\Coding\gitHubRepo\DataStructuresMoshPart3\MyCode\DataStructuresMoshPart3\DataStructuresMoshPart3\obj\Debug\netcoreapp3.1\DataStructuresMoshPart3.dll
+I:\IT\Coding\gitHubRepo\DataStructuresMoshPart3\MyCode\DataStructuresMoshPart3\DataStructuresMoshPart3\obj\Debug\netcoreapp3.1\DataStructuresMoshPart3.pdb
